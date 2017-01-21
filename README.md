@@ -630,6 +630,7 @@
 * Rob Allen https://akrabat.com/
 * Robert C. Martin http://blog.cleancoder.com/
 * Robin Ward https://eviltrout.com/
+* Robin Wieruch https://robinwieruch.de/
 * Robin Wilson http://blog.rtwilson.com/
 * Rudy Huyn http://www.rudyhuyn.com/blog/
 * Ruslan Spivak https://ruslanspivak.com/
